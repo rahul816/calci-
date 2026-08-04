@@ -18,3 +18,4 @@ const result3 = mul(5, 3);
 console.log(result3); 
 const result4 = div(55, 5);
 console.log(result4); 
+console.log("hello");
